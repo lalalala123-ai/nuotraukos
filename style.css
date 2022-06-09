@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+    padding-bottom: 80px;
+    box-shadow: 0 0 5px grey;
+    margin: 40px;
+}
+body{
+    text-align:center;
+}
+.foto1{
+    transform: rotate(10deg);
+}
+.foto2{
+    transform: rotate(-10deg);
+}
+.foto3{
+    transform: rotate(-10deg);
+}
+.foto4{
+    transform: rotate(10deg);
+}
